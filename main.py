@@ -10,7 +10,7 @@ data = pd.read_csv('AAPL.csv')
 average_close = data['Close'].mean()
 
 
-print(f"Average Closing Price:", average_close)
+print(f"Average Closing Price: {average_close}")
 
 end_time = time.time()
 print(f"Execution time: {end_time - start_time} seconds")
