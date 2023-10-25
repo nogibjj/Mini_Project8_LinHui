@@ -1,3 +1,5 @@
+[![CI](https://github.com/nogibjj/Mini_Project8_LinHui/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Mini_Project8_LinHui/actions/workflows/cicd.yml)
+
 # Mini Project 8 
 
 This project consists of two implementations for calculating the average closing price of stock data: one written in Python and the other in Rust.
